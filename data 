@@ -1,0 +1,43 @@
+prodect 
+ -category *
+ -title
+ -subtitle
+ -image
+ -price
+ - time to deleverd
+ -model number
+ -Raitings *
+ -warranty
+ -sold by(vendor) 
+ -seller reviwes  *
+ -Quantity
+ Specifications
+ -overviwe
+ -Advertising *
+ - Buy together *
+ -Help *
+ -wishlist*
+ -cart*
+ -language
+ ---------------
+ customer
+ -orders
+ -addresses
+ -pyment
+ -noon cards
+ -returns
+ -Claim
+ preferences
+ profile
+ -------------
+ coupons
+ ----------
+ vendor 
+ -results
+ -sort by
+ -Display
+ -Category
+ -price lemit
+ -new arrivals
+ -colour
+
